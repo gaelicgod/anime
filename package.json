@@ -1,0 +1,23 @@
+{
+  "name": "anime",
+  "version": "1.0.0",
+  "description": "this will do lookups on anime titles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "anime"
+  ],
+  "author": "Bevan Christians <gaelicgod@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {
+    "@types/mocha": "^2.2.43",
+    "@types/node": "^8.0.33"
+  }
+}
